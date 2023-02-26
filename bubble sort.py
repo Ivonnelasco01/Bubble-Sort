@@ -8,7 +8,7 @@ def sort(nums):
                 nums[j+1] = temp
 
 
-nums = [17, 51, 52, 31, 28, 47, 50, 61, 43, 65]
+nums = [90, 29, 53, 68, 35, 92, 30, 89, 70, 23]
 sort(nums)
 
 print(nums)
